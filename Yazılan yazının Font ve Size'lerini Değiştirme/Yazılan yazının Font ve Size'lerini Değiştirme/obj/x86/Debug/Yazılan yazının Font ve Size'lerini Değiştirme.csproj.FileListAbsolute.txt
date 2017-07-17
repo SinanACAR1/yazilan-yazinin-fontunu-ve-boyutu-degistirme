@@ -1,0 +1,8 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Yazılan yazının Font ve Size'lerini Değiştirme\Yazılan yazının Font ve Size'lerini Değiştirme\bin\Debug\Yazılan yazının Font ve Size'lerini Değiştirme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Yazılan yazının Font ve Size'lerini Değiştirme\Yazılan yazının Font ve Size'lerini Değiştirme\bin\Debug\Yazılan yazının Font ve Size'lerini Değiştirme.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Yazılan yazının Font ve Size'lerini Değiştirme\Yazılan yazının Font ve Size'lerini Değiştirme\obj\x86\Debug\Yazılan yazının Font ve Size'lerini Değiştirme.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Yazılan yazının Font ve Size'lerini Değiştirme\Yazılan yazının Font ve Size'lerini Değiştirme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Yazılan yazının Font ve Size'lerini Değiştirme\Yazılan yazının Font ve Size'lerini Değiştirme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Yazılan yazının Font ve Size'lerini Değiştirme\Yazılan yazının Font ve Size'lerini Değiştirme\obj\x86\Debug\Yazılan yazının Font ve Size'lerini Değiştirme.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Yazılan yazının Font ve Size'lerini Değiştirme\Yazılan yazının Font ve Size'lerini Değiştirme\obj\x86\Debug\Yazılan yazının Font ve Size'lerini Değiştirme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Yazılan yazının Font ve Size'lerini Değiştirme\Yazılan yazının Font ve Size'lerini Değiştirme\obj\x86\Debug\Yazılan yazının Font ve Size'lerini Değiştirme.pdb
